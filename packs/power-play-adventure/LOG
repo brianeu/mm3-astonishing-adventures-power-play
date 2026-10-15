@@ -1,0 +1,7 @@
+2026/10/15-11:52:03.801 6e0c Recovering log #57
+2026/10/15-11:52:03.816 6e0c Delete type=0 #57
+2026/10/15-11:52:03.816 6e0c Delete type=3 #55
+2026/10/15-12:25:20.809 1c38 Level-0 table #62: started
+2026/10/15-12:25:20.810 1c38 Level-0 table #62: 0 bytes OK
+2026/10/15-12:25:20.813 1c38 Delete type=0 #60
+2026/10/15-12:25:20.813 1c38 Manual compaction at level-0 from '!adventures!A6sZYVgyNCGamYB8' @ 72057594037927935 : 1 .. '!adventures!A6sZYVgyNCGamYB8' @ 0 : 0; will stop at (end)
