@@ -2,7 +2,7 @@
   "id": "astonishing-adventures-power-play",
   "title": "Astonishing Adventures: Power Play",
   "version": "1.0.3",
-  "manifest": "https://github.com/brianeu/mm3-astonishing-adventures-power-play/releases/latest/download/module.json",
+  "manifest": "https://github.com/brianeu/mm3-astonishing-adventures-power-play/releases/download/1.0.0/module.json",
   "download": "https://github.com/brianeu/mm3-astonishing-adventures-power-play/releases/download/1.0.3/module.zip",
   "compatibility": {
     "minimum": "13",
