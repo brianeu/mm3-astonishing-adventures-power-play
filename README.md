@@ -1,2 +1,1 @@
-# mm3-astonishing-adventures-power-play
-This is an unofficial module for the Mutants and Masterminds Astonishing Adventure
+This unofficial module contains character sheets, journals and macros for the Mutants and Masterminds Astonishing Adventure, Power Play, to enable more seamless play for both GMs and Players.
