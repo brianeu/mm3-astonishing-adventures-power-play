@@ -1,14 +1,14 @@
-2026/11/07-11:26:48.857 2fe0 Recovering log #268
-2026/11/07-11:26:48.861 2fe0 Delete type=0 #268
-2026/11/07-11:26:48.861 2fe0 Delete type=3 #266
-2026/11/07-11:28:03.639 28ec Level-0 table #273: started
-2026/11/07-11:28:03.696 28ec Level-0 table #273: 595340 bytes OK
-2026/11/07-11:28:03.697 28ec Delete type=0 #271
-2026/11/07-11:28:03.698 28ec Manual compaction at level-0 from '!adventures!A6sZYVgyNCGamYB8' @ 72057594037927935 : 1 .. '!adventures!A6sZYVgyNCGamYB8' @ 0 : 0; will stop at '!adventures!A6sZYVgyNCGamYB8' @ 8 : 1
-2026/11/07-11:28:03.698 28ec Compacting 1@0 + 1@1 files
-2026/11/07-11:28:03.744 28ec Generated table #274@0: 1 keys, 595340 bytes
-2026/11/07-11:28:03.744 28ec Compacted 1@0 + 1@1 files => 595340 bytes
-2026/11/07-11:28:03.745 28ec compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/11/07-11:28:03.745 28ec Delete type=2 #111
-2026/11/07-11:28:03.746 28ec Delete type=2 #273
-2026/11/07-11:28:03.746 28ec Manual compaction at level-0 from '!adventures!A6sZYVgyNCGamYB8' @ 8 : 1 .. '!adventures!A6sZYVgyNCGamYB8' @ 0 : 0; will stop at (end)
+2026/11/09-17:32:44.764 9bcc Recovering log #319
+2026/11/09-17:32:44.764 9bcc Delete type=0 #319
+2026/11/09-17:32:44.764 9bcc Delete type=3 #317
+2026/11/09-17:42:45.043 760c Level-0 table #324: started
+2026/11/09-17:42:45.111 760c Level-0 table #324: 642866 bytes OK
+2026/11/09-17:42:45.112 760c Delete type=0 #322
+2026/11/09-17:42:45.113 760c Manual compaction at level-0 from '!adventures!A6sZYVgyNCGamYB8' @ 72057594037927935 : 1 .. '!adventures!A6sZYVgyNCGamYB8' @ 0 : 0; will stop at '!adventures!A6sZYVgyNCGamYB8' @ 13 : 1
+2026/11/09-17:42:45.113 760c Compacting 1@0 + 1@1 files
+2026/11/09-17:42:45.162 760c Generated table #325@0: 1 keys, 642866 bytes
+2026/11/09-17:42:45.162 760c Compacted 1@0 + 1@1 files => 642866 bytes
+2026/11/09-17:42:45.162 760c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/11/09-17:42:45.167 760c Delete type=2 #316
+2026/11/09-17:42:45.168 760c Delete type=2 #324
+2026/11/09-17:42:45.168 760c Manual compaction at level-0 from '!adventures!A6sZYVgyNCGamYB8' @ 13 : 1 .. '!adventures!A6sZYVgyNCGamYB8' @ 0 : 0; will stop at (end)
