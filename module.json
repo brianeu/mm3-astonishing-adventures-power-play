@@ -42,21 +42,7 @@
       }
     ],
     "requires": [
-      {
-        "id": "a-day-at-13-the-back-alley-map-set",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "a-day-at-sq-2-the-harbor-warehouse",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "a-day-at-20-the-wrong-side-of-town-map-set",
-        "type": "module",
-        "compatibility": {}
-      }
+      { }
     ]
   }
 }
